@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 
-local Window = Library.CreateLib("GamesHub - by mishanya)!#4518", "RJTheme4")
+local Window = Library.CreateLib("minyfisk - by mishanya)!#4518", "RJTheme4")
 
 local Tab = Window:NewTab("Main")
 
